@@ -20,12 +20,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - [Axios]
  - [Bootstrap]
  - [React Router DOM]
-  <h3>parar iniciar o projeto, no arquivo Front_end, devesse inicia-lo no terminal com o comando "npm run dev", aonde a tecnoloia Vite lhe dara a porta para acessa-lo<h3/> 
+   
+   <h4>parar iniciar o projeto, no arquivo Front_end, devesse inicia-lo no terminal com o comando "npm run dev", aonde a tecnoloia Vite lhe dara a porta para acessa-lo<h3/> 
 
-  ### BackEnd
+   <br><br/>
   
-  <h3> parar iniciar o projeto, no arquivo backEnd, devesse inicia-lo no terminal com o comando "npm start dev" <h3/> 
-  <h3> o servidor inciará na porta:3000 - acesse <http://localhost:3000<h3/> 
+
+### BackEnd
+  
+  <h4> parar iniciar o projeto, no arquivo backEnd, devesse inicia-lo no terminal com o comando "npm start dev" <h4/> 
+  <h4> o servidor inciará na porta:3000 - acesse http://localhost:3000 <h4/>
 
   
   # Banco de dados 
